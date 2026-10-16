@@ -66,5 +66,6 @@ docs/                 project report
 Single machine, controlled environment. Detection uses polling, so latency is up to one poll interval.
 No authentication yet (future work), no multi-server agents, no email alerts.
 
-## Team
-(add names and roles)
+
+
+
