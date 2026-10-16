@@ -66,10 +66,6 @@ docs/                 project report
 Single machine, controlled environment. Detection uses polling, so latency is up to one poll interval.
 No authentication yet (future work), no multi-server agents, no email alerts.
 
-## Team
-2520030006 - Bhanu Jakka
-2520030043 - Akshita Anand
-2520030192 - A.Kuvira
-2520030455 - Sudha
+
 
 
